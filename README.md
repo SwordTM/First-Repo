@@ -13,3 +13,5 @@ Changes from merge conflict resolution
 
 
 branch change feature 1
+
+change 2 for the feature-1
